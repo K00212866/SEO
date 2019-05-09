@@ -1,0 +1,195 @@
+
+    header{
+      width:100%;
+    }
+
+header
+{
+  background-image: url(img/bg.png);
+  height: 50vh;
+  background-size: cover;
+  background-position: center;
+  
+
+}
+
+.bg-logo
+{
+  position: absolute;
+  display: flex;
+  
+ 
+}
+.container
+{
+   display: flex;
+   
+}
+
+.item
+{
+    order: interger;
+}
+.main-nav
+
+.log img
+{
+  display: block;
+  width: 100%;
+  height:auto;
+  margin-left: auto;
+}
+body
+{
+  font-family: monospace;
+  margin-left: 10px;
+  height: 100%;
+  width: 100%;
+}
+.row
+{
+  max-width: 1200px;
+  margin: auto;
+}
+
+h1
+{
+  color: white;
+  text-transform: uppercase;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 275px;
+  display: flexbox;
+}
+
+.wrapper
+{
+  width: 100%;
+}
+.img-info 
+{
+  width:100%;
+}
+.img-info h2
+{
+  padding: 30px 30px 20px;
+  font-family: arial;
+  font-size: 50px;
+  color: #111;
+  line-height: 44px;
+}
+.img-info p
+{
+  padding: 0px 30px 20px;
+  font-family: arial;
+  font-size: 16px;
+  color: #111;
+  line-height: 24px;
+}
+.img-pic
+{
+  width: 100%;
+}
+ .side-pic
+{
+  float:left;
+
+}
+.glyphicon-search
+{
+  font-size: 20px;
+}
+
+.form-control
+{
+  padding: 25px;
+  font-size: 20px;
+}
+.footer
+#footer {
+  padding: 2rem 0 0.1rem 0 ;
+  text-align: center;
+}
+
+  #footer  {
+    color: rgba(19, 16, 16, 0.75);
+    align:center;
+  }
+
+    #footer :hover {
+      color: #FFF;
+    }
+
+  #footer .copyright {
+    color: #bbb;
+    font-size: 0.9rem;
+    margin: 0 0 2rem 0;
+    padding: 0 1rem;
+    text-align: center;
+  }
+
+.main{
+  overflow: auto;
+  padding-bottom: 100px;
+}
+
+form {
+  border: 3px solid #f1f1f1;
+}
+
+
+
+
+
+
+@media only screen and (min-width: 750px)
+{
+  .wrapper
+{
+  width: 600px;
+  margin: 0 auto;
+}
+.img-info h2
+{
+  padding: 20px 0px 0px;
+}
+.img-info p
+{
+  padding: 20px 0px 0px;
+ 
+}
+.img-pic
+{
+  padding: 30px;
+}
+  
+} 
+  
+@media only screen and (min-width: 380px)
+{
+  .wrapper
+{
+  width: 600px;
+  margin: 0 auto;
+}
+.img-info h2
+{
+  padding: 20px 0px 0px;
+}
+.img-info p
+{
+  padding: 20px 0px 0px;
+ 
+}
+.img-pic
+{
+  padding: 30px;
+}
+  
+} 
+
+
+body {
+    background-color: rgb(242, 250, 253);
+  }
+  
